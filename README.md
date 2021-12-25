@@ -27,10 +27,12 @@ Many files were lost (like checkpoint for COCO2014 & VOC2012 and some visualizat
 1. train：You can use to train your own dataset OR make some references :
 
    ```
-Train:
+   
+   Train:
    python main.py -b 8 --data VOC2007 
    Test:
    python main.py -e --data VOC2007
+   
    ```
    
    
@@ -39,10 +41,12 @@ Train:
 
    The input is a single picture, and the visible.py will output the predicted class.
 
-```
-Test:
-python visible.py
-```
+  ```
+
+  Test:
+  python visible.py
+
+  ```
 
 
 
