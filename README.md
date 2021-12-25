@@ -10,13 +10,17 @@ Many files were lost (like checkpoint for COCO2014 & VOC2012 and some visualizat
 
 
 
+
 ### Motivation
 
-<img src="E:\canyizl\proj1\2021 10 12\MGCN R\figure2.png" alt="figure2" style="zoom: 33%;" />
+<p float="left">
+<img src="readme_img/figure3.png" alt="hippocampal" width="400px" />  
+<img src="readme_img/figure2.png" alt="NMDA" width="400px"/>
+</p>
 
-<img src="E:\canyizl\proj1\2021 10 12\MGCN R\figure3.png" alt="figure3" style="zoom: 50%;" />
 
-![figure5](E:\canyizl\proj1\2021 10 12\MGCN R\figure5.png)
+
+<img src="readme_img/figure5.png" alt="Preview model" width="800px" />
 
  Considering the hippocampal circuit and memory mechanism of human brain, a brain-inspired Memory Graph Convolutional Network (M-GCN) is proposed. M-GCN presents crucial short-term and long-term memory modules to interact attention and prior knowledge, learning complex semantic enhancement and suppression
 
