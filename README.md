@@ -57,7 +57,7 @@ Many files were lost (like checkpoint for COCO2014 & VOC2012 and some visualizat
 ### Checkpoint
 
 The "checkpoint/checkpoint_07.pth" is used for VOC2007 (num_classes = 20). And the checkpoint for COCO2014 & VOC2012 is missing.
-Please place the checkpoint in "./train/checkpoint/" OR "./test/checkpoint/"
+Please put the checkpoint in "./train/checkpoint/" OR "./test/checkpoint/"
 
 You can download here :
 
