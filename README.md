@@ -39,6 +39,8 @@ You can run the "train" OR "test" independently if you do not need to train or v
    Test:
    python main.py -e --data VOC2007
    
+   more control details in main.py "args".
+   
    ```
    
    
