@@ -28,6 +28,8 @@ Many files were lost (like checkpoint for COCO2014 & VOC2012 and some visualizat
 
 ### Running
 
+You can run the "train" OR "test" independently if you do not need to train or visualize.
+
 1. train：You can use to train your own dataset OR make some references :
 
    ```
