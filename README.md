@@ -6,7 +6,7 @@
 
 This is my first paper. AC 5 months 
 
-Many files were lost (like checkpoint for COCO2014 & VOC2012 and some visualization codes) when organizing, so I uploaded this project to my [Github](https://github.com/Canyizl).
+Many files were lost (like checkpoint for COCO2014 & VOC2012 and some visualization codes) when cleaning up my pc, so I uploaded this project to my [Github](https://github.com/Canyizl).
 
 
 
