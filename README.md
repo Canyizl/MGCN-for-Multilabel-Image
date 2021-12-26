@@ -4,9 +4,8 @@
 
 **M-GCN: Brain-inspired Memory Graph Convolutional Network for Multi-Label Image Recognition**  (proof)
 
-This is my first paper. AC 5 months 
 
-Many files were lost (like checkpoint for COCO2014 & VOC2012 and some visualization codes) when cleaning up my pc, so I uploaded this project to my [Github](https://github.com/Canyizl).
+Many files were lost (like checkpoint for COCO2014 & VOC2012 and some visualization codes) when cleaning up my pc, so I uploaded this project to my [Github](https://github.com/Canyizl). My first paper(2021.6.30-2021.11.26)
 
 
 
