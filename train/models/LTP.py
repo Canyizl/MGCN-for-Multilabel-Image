@@ -105,8 +105,7 @@ class M_GCN(nn.Module):
         return x
 
     def forward_sam(self, x):
-        """ SAM module
-
+        """
         Shape:
         - Input: (B, C_in, H, W) # C_in: 2048
         - Output: (B, C_out, N) # C_out: 1024, N: num_classes
