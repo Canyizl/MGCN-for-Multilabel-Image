@@ -72,7 +72,7 @@ We referenced the repos below for the code
 
 ·[ML-GCN](https://github.com/Megvii-Nanjing/ML-GCN)
 
-·[SSGRL](https://github.com/HCPLab-SYSU/SSGRL)
+·[SSGRL](https://github.com/HCPLab-SYSU/SSGRL)(VOC2012 is working on this code)
 
 ·[ADD-GCN](https://github.com/Yejin0111/ADD-GCN) (The mainly code I chosen in rewriting my code)
 
