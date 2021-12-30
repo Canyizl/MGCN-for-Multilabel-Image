@@ -4,9 +4,7 @@
 
 **M-GCN: Brain-inspired Memory Graph Convolutional Network for Multi-Label Image Recognition**  (proof)
 
-
-Many files were lost (like checkpoint for COCO2014 & VOC2012 and some visualization codes) when cleaning up my pc, so I uploaded this project to my [Github](https://github.com/Canyizl). My first paper(2021.6.30-2021.11.26)
-
+Many files were lost when cleaning up my pc. I wrote this code again because of the need of course homework, and upload to my Github for backup. 
 
 
 
@@ -59,7 +57,7 @@ You can run the "train" OR "test" independently if you do not need to train or v
 
 ### Checkpoint
 
-The "checkpoint/checkpoint_07.pth" is used for VOC2007 (num_classes = 20). And the checkpoint for COCO2014 & VOC2012 is missing.
+The "checkpoint/checkpoint_07.pth" is used for VOC2007 (num_classes = 20).
 Please put the checkpoint in "./train/checkpoint/" OR "./test/checkpoint/"
 
 You can download here :
@@ -76,7 +74,7 @@ We referenced the repos below for the code
 
 ·[SSGRL](https://github.com/HCPLab-SYSU/SSGRL)
 
-·[ADD-GCN](https://github.com/Yejin0111/ADD-GCN)
+·[ADD-GCN](https://github.com/Yejin0111/ADD-GCN) (The mainly code I chosen in rewriting my code)
 
 
 
