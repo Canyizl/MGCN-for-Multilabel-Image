@@ -83,7 +83,16 @@ We referenced the repos below for the code
 If you find our code or our paper useful for your research, please cite our work:
 
 ```
-To be continued...
+
+Title
+M-GCN: Brain-inspired memory graph convolutional network for multi-label image recognition
+Journal
+Neural Computing and Applications
+DOI
+10.1007/s00521-021-06803-z
+
+bibtex is to be continued.
+
 ```
 
 
