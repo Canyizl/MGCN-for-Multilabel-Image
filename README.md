@@ -84,17 +84,13 @@ If you find our code or our paper useful for your research, please cite our work
 
 ```
 
-@Article{MGCN,
-author={Yao, Xiao
-and Xu, Feiyang
-and Gu, Min
-and Wang, Peipei},
-title={M-GCN: Brain-inspired memory graph convolutional network for multi-label image recognition},
-journal={Neural Computing and Applications},
-year={2022},
-issn={1433-3058},
-doi={10.1007/s00521-021-06803-z},
-url={https://doi.org/10.1007/s00521-021-06803-z}
+@article{MGCN,
+  title={M-GCN: Brain-inspired memory graph convolutional network for multi-label image recognition},
+  author={Yao, Xiao and Xu, Feiyang and Gu, Min and Wang, Peipei},
+  journal={Neural Computing and Applications},
+  pages={1--14},
+  year={2022},
+  publisher={Springer}
 }
 
 
