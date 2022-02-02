@@ -2,7 +2,9 @@
 
 [This repo](https://github.com/Canyizl/M-GCN) is accepted by ***"Neural computing and applications"*** (IF=5.6 2021.11)
 
-**M-GCN: Brain-inspired Memory Graph Convolutional Network for Multi-Label Image Recognition**  (proof)
+[**M-GCN: Brain-inspired Memory Graph Convolutional Network for Multi-Label Image Recognition**](https://link.springer.com/article/10.1007/s00521-021-06803-z)
+
+doi: 10.1007/s00521-021-06803-z
 
 Many files were lost when cleaning up my pc. I wrote this code again because of the need of course homework, and upload to my Github for backup. 
 
