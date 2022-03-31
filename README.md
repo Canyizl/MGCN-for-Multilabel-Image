@@ -23,7 +23,8 @@ Many files were lost when cleaning up my pc. I wrote this code again because of 
 
  Considering the hippocampal circuit and memory mechanism of human brain, a brain-inspired Memory Graph Convolutional Network (M-GCN) is proposed. M-GCN presents crucial short-term and long-term memory modules to interact attention and prior knowledge, learning complex semantic enhancement and suppression
 
-
+## Dataset
+We use the dataset in [ADD-GCN](https://github.com/Yejin0111/ADD-GCN).
 
 ### Running
 
