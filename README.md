@@ -104,3 +104,4 @@ If you find our code or our paper useful for your research, please cite our work
 ### Contact
 
 If you have any question or comment, please contact 1962410334@hhu.edu.cn
+It also should be noticed that I will studied in ZJU soon. So you can contact my personal email 975136225@qq.com.
