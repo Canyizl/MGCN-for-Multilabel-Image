@@ -6,10 +6,6 @@
 
 doi: 10.1007/s00521-021-06803-z
 
-Many files were lost when cleaning up my pc. I wrote this code again because of the need of course homework, and upload to my Github for backup. 
-
-
-
 ### Motivation
 
 <p float="left">
